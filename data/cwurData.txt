@@ -1,0 +1,30 @@
+Input variables (based on physicochemical tests):
+
+1 - world_rank -> droping this table
+
+2 - institution -> droping this table
+
+3 - country -> droping this table
+
+4 - national_rank -> integer 
+
+5 - quality_of_education
+
+6 - alumni_employment
+
+7 - quality_of_faculty
+
+8 - publications
+
+9 - influence
+
+10 - citations
+
+11 - broad_impact
+
+12 - patents -> integer
+
+13 - year
+Output variable (based on sensory data):
+
+12 - score (score between 0 and 100)
