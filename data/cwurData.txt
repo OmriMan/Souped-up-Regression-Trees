@@ -8,23 +8,25 @@ Input variables (based on physicochemical tests):
 
 4 - national_rank -> integer 
 
-5 - quality_of_education
+5 - quality_of_education -> integer
 
-6 - alumni_employment
+6 - alumni_employment -> integer
 
-7 - quality_of_faculty
+7 - quality_of_faculty -> integer
 
-8 - publications
+8 - publications -> integer
 
-9 - influence
+9 - influence -> integer
 
-10 - citations
+10 - citations -> integer
 
-11 - broad_impact
+11 - broad_impact -> float
 
 12 - patents -> integer
 
-13 - year
+13 - year -> integer
+
+
 Output variable (based on sensory data):
 
-12 - score (score between 0 and 100)
+14 - score (score between 0 and 100 (float) )
